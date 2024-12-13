@@ -1,5 +1,5 @@
 # Base DNS Server
-This is base of the Core of DNS Server, just for experimenting, further developing.
+This is base of the Core of DNS Server, just for experimenting or further developing.
 
 
 ## 🛠️ Compile & run
